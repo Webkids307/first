@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .btn-dark {
+    padding: 15px 25px;
+    border-radius: 20px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    margin: 100px 200px;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    background: rgb(119, 116, 166);
+    text-decoration: underline;
+    border: 5px solid #ad21cc;
+    cursor: pointer;
+    background: linear-gradient(90deg, rgba(119, 116, 166, 1) 0%, rgba(30, 152, 154, 1) 25%, rgba(28, 89, 101, 1) 100%);
+}
+
+.btn-dark:hover {
+    color: crimson;
+    background: aqua;
+    transition: 0.5s ease-out;
+    font-size: 40px;
+    border-radius: 0px 30px 0 30px;
+}
+
+.btn-dark:active {
+    background-color: darkcyan
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+body {
+    background-color: hsl(250, 17%, 94%);
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
+
+.multi-button {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 14px;
+    padding: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 15px 0 rgba(0, 0, 0, 0.1);
+    place-items: center;
+}
+
+#cut {
+    background-color: rgb(85, 131, 241);
+    border: 1px solid rgb(85, 131, 241);
+
+}
+
+#cut {
+    background-color: rgb(85, 131, 241);
+    border: 1px solid rgb(85, 131, 241);
+
+}
+
+#copy {
+    background-color: rgb(39, 166, 75);
+    border: 1px solid rgb(39, 166, 75);
+
+}
+
+#paste {
+    background-color: rgb(242, 185, 42);
+    border: 1px solid rgb(242, 185, 42);
+
+}
+
+
+.button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 15px 0 rgba(0, 0, 0, 0.09);
+    padding: 10px 17px 10px 17px;
+    font: 15px Ubuntu;
+    color: white;
+    border-radius: 7px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+#cut span:after {
+    font-family: FontAwesome;
+    content: "\f0c4";
+}
+
+#copy span:after {
+    font-family: FontAwesome;
+    content: "\f0c5";
+}
+
+#paste span:after {
+    font-family: FontAwesome;
+    content: "\f0ea";
+}
+
+a {
+    font-size: 25px;
+}
+
+a:link {
+    color: white;
+    background-color: blue;
+}
+
+p::first-letter {
+    color: red;
+    background-color: aqua;
+    font-size: 50px;
+    text-decoration: overline;
+}
+
+table {
+    margin-top: 100px;
+} */
+
+/* tr,
+td {
+    border: 1px solid black;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+tr:nth-child(1) {
+    color: aqua;
+}
+
+td:nth-child(2) {
+    color: #ad21cc;
+} */
+/* ul li:nth-child(2n-1){
+    color: red;
+    list-style: none;
+}
+ul li:nth-child(2n){
+    color: coral;
+} */
